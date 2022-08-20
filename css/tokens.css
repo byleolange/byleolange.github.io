@@ -1,0 +1,41 @@
+/* COLOR TOKENS */
+:root {
+  /* Neutral Colors */
+  --neutral-color-900: #0e0e0e;
+  --neutral-color-800: #1a1a1a;
+  --neutral-color-700: #2e2e2e;
+  --neutral-color-600: #404040;
+  --neutral-color-500: #595959;
+  --neutral-color-400: #717171;
+  --neutral-color-300: #9c9c9c;
+  --neutral-color-200: #b2b2b2;
+  --neutral-color-100: #cccccc;
+  --neutral-color-50: #dedede;
+  --neutral-color-00: #f7f7f7;
+
+  /* Primary Colors */
+  --primary-color-900: #001f11;
+  --primary-color-800: #002c18;
+  --primary-color-700: #003f22;
+  --primary-color-600: #004d2a;
+  --primary-color-500: #005931;
+  --primary-color-400: #006437;
+  --primary-color-300: #72907c;
+  --primary-color-200: #a1b2a6;
+  --primary-color-100: #c5cfc8;
+  --primary-color-50: #e4e8e5;
+  --primary-color-00: #f1f3f2;
+
+  /* Secondary Colors */
+  --secondary-color-900: #3a4a0e;
+  --secondary-color-800: #536915;
+  --secondary-color-700: #75951d;
+  --secondary-color-600: #90b724;
+  --secondary-color-500: #a6d32a;
+  --secondary-color-400: #a6d32a;
+  --secondary-color-300: #c9f079;
+  --secondary-color-200: #d8f4a5;
+  --secondary-color-100: #e5f7c7;
+  --secondary-color-50: #f2fbe5;
+  --secondary-color-00: #f8fdf2;
+}
